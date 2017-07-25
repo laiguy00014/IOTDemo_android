@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IOTDemo</string>
+    <string name="temperature">\u2103</string>
+</resources>
